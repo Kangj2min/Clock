@@ -1,4 +1,4 @@
-## Digital Clock
+# Digital Clock
 
 This project learn how to digital clock make and watch how much difference Performance(Lut, WNS..) of circuit each other.
 
