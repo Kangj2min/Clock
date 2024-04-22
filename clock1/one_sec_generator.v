@@ -44,19 +44,7 @@ output [P_MIN_BIT-1:0] minute;
 output [P_HOUR_BIT-1:0] hour;
 
 	reg 	[P_COUNT_BIT-1:0] 	r_counter; 
-sec_count # (
-.P_SEC_BIT(P_SEC_BIT),
-.P_MIN_BIT(P_MIN_BIT),
-.P_HOUR_BIT(P_HOUR_BIT)
-)
- u_sec_count (
- .clk(clk),
- .reset(reset),
- .o_one_sec_tick(o_one_sec_tick),
- .sec(sec),
- .minute(minute),
- .hour(hour)
- );
+
 	always @(posedge clk) begin
 	    if(reset) begin
 			r_counter <= {P_COUNT_BIT{1'b0}};
