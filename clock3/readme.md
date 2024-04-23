@@ -13,4 +13,5 @@ Like this, instance of Clock3 are made up of chains.
 이처럼 인스턴스는 연쇄적으로 이루어져있습니다.
 
 
+WNS:3.268 LUT:458/109
 ![clock3](https://github.com/Kangj2min/Clock/assets/167446954/98285d5c-b418-4247-b3cd-6b1ca2b79a9b)

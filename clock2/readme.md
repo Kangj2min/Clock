@@ -17,4 +17,6 @@ when min_tic that wiring with min_generator is highm hour is increased.
 
 when sec is 59*59 m hour is increased. it is 1 hour count.
 
+
+WNS 4.042 LUT:398/49
 ![clock2](https://github.com/Kangj2min/Clock/assets/167446954/6cacf1ec-2cd6-49ad-bee3-5175c0eb4636)
