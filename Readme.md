@@ -6,6 +6,8 @@ This project use Vivado and if you want to only simulate, you can use modelsim t
 
 These ClockIP connect Zynq board by using AXI Architecture.
 
+Clock4 is attempting to optimize size of clock1.
+
 <br/>
 
-when i make it, i frequently refet to code of ### matbi_watch(https://github.com/matbi86/matbi_watch).
+when i make it, i frequently refet to code of matbi_watch (https://github.com/matbi86/matbi_watch).
